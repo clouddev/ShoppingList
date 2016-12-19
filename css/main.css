@@ -1,0 +1,35 @@
+li {
+	font-size: 20px;
+	padding: 10px;
+	border-bottom: solid 1px grey;
+	list-style: square;
+}
+
+input {
+	font-size: 15px;
+}
+
+button {
+	font-size: 12px;
+	background-color: blue;
+	color: yellow;	
+
+}
+
+.remove {
+	padding-left: 10px;
+	float: right;
+	width: 50%;
+}
+
+body {
+	border: solid 2px blue;
+	width: 350px;
+	box-shadow: 5px 5px grey;
+
+}
+
+h2, #bottom {
+	background-color: #F0FFFF;	
+	padding-left: 5px;
+}
